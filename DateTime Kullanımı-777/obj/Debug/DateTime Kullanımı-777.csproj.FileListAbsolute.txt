@@ -1,0 +1,10 @@
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\bin\Debug\DateTime Kullanımı-777.exe.config
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\bin\Debug\DateTime Kullanımı-777.exe
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\bin\Debug\DateTime Kullanımı-777.pdb
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime Kullanımı-777.csproj.AssemblyReference.cache
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime_Kullanımı_777.Form1.resources
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime_Kullanımı_777.Properties.Resources.resources
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime Kullanımı-777.csproj.GenerateResource.cache
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime Kullanımı-777.csproj.CoreCompileInputs.cache
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime Kullanımı-777.exe
+C:\Users\PC0\source\repos\DateTime Kullanımı-777\DateTime Kullanımı-777\obj\Debug\DateTime Kullanımı-777.pdb
